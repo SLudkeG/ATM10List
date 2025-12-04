@@ -219,13 +219,3 @@
 
 ---
 
-✅ **Status do Modpack**
-- Totalmente funcional no **Minecraft 1.21.1 – NeoForge**
-- Foco em:
-  - Automação pesada
-  - Magia avançada
-  - Exploração profunda
-  - Construção criativa
-  - Máxima otimização
-
-🚀 Ideal para **singleplayer avançado, servidores técnicos e modpacks de progressão longa**.
